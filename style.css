@@ -9,8 +9,10 @@ div{
     margin-left: 60vh;
     border: 5px solid #edff1f;
     cursor: pointer;
+    transition: all 3s ease;
 }
 div:hover{
     background-color: #edff1f;
     border: 5px solid #00d4ff;
+    transition: all 3s ease;
 }
