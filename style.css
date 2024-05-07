@@ -1,0 +1,16 @@
+*{
+    display:flex;
+}
+div{
+    border-radius: 30px;
+    padding: 200px;
+    background-color: #00d4ff;
+    margin-top: 50px;
+    margin-left: 60vh;
+    border: 5px solid #edff1f;
+    cursor: pointer;
+}
+div:hover{
+    background-color: #edff1f;
+    border: 5px solid #00d4ff;
+}
