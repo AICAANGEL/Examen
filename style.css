@@ -13,6 +13,7 @@ div{
     transition: all 1.5s ease;
 }
 div:hover{
+    color: black;
     background-color: #edff1f;
     border: 5px solid #00d4ff;
     transition: all 1.5s ease;
